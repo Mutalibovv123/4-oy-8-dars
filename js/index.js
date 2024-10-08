@@ -330,15 +330,48 @@
 // i++
 // } while (i <= end);
 
-// 9-masala
+// 9-masala while
 
-let num = +prompt("Sonni kirting");
-let qoldiq;
-while (num > 0) {
-     qoldiq = num % 10;
-     console.log(qoldiq);
-}
-Math.trunc("num");
+// let num = +prompt("Sonni kirting");
+// let qoldiq;
+// while (num > 0) {
+//      qoldiq = num % 10;
+//      console.log(qoldiq);
+// }
+// Math.trunc(num / 10);
+
+// 9-masala do while
+// let num = +prompt("Sonni kiriting");
+// let qoldiq;
+// do { qoldiq = num % 10 
+//     console.log(qoldiq);   
+// } while (num > 0);
+// Math.trunc(num / 10);
+
+// 11- masala while
+// let num = +prompt("Bir son kiriting");
+// let qoldiq;
+// let sum = 1;
+
+// while (num > 0) { 
+//      qoldiq = num % 10
+//      sum *= qoldiq
+//      Math.trunc(num / 10);
+// }
+// console.log(sum);  
+
+// 11- masala do while
+
+// let num = +prompt("Sonni kirting")
+// let qoldiq;
+// let sum = 1;
+
+// do { qoldiq = num % 10
+//     sum *= qoldiq
+//     Math.trunc(num /10);
+// } while (num > 0);
+
+
 
 
 
